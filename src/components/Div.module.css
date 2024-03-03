@@ -1,0 +1,173 @@
+.logoS2lihr8ksvgIcon {
+  align-self: stretch;
+  height: 23.9px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.logoS2lihr8ksvgFill {
+  flex: 1;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0.03239263966679573px var(--padding-0);
+}
+.link,
+.logoS2lihr8ksvg {
+  display: flex;
+  align-items: flex-start;
+}
+.logoS2lihr8ksvg {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.link {
+  width: 162px;
+  flex-direction: column;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-0) 0.12999999523162842px;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.imageIcon {
+  position: absolute;
+  top: 6.9px;
+  left: 14px;
+  width: 22px;
+  height: 22px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.button {
+  height: 36px;
+  width: 42px;
+  position: relative;
+  border-radius: var(--br-2xl) 0 0 var(--br-2xl);
+  background-color: var(--app-concrete);
+}
+.searchForYour {
+  position: relative;
+  display: inline-block;
+  max-width: 279px;
+  white-space: nowrap;
+}
+.diveditingViewPort {
+  align-items: center;
+  padding: var(--padding-9xs) var(--padding-4xs) var(--padding-12xs)
+    var(--padding-0);
+  z-index: 1;
+}
+.diveditingViewPort,
+.form,
+.inputSearch {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.inputSearch {
+  border-radius: 0 var(--br-2xl) var(--br-2xl) 0;
+  background-color: var(--app-concrete);
+  align-items: center;
+  padding: var(--padding-7xs) var(--padding-8xl) var(--padding-7xs)
+    var(--padding-xs);
+}
+.form {
+  border-radius: var(--br-2xl);
+  align-items: flex-start;
+  max-width: 100%;
+}
+.createAccount {
+  font-weight: 500;
+}
+.itsFree {
+  color: var(--app-blue-ribbon);
+}
+.createAccountItsContainer {
+  position: relative;
+  white-space: nowrap;
+}
+.button1 {
+  border-radius: var(--br-7xs);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-11xs) var(--padding-0) var(--padding-10xs)
+    var(--padding-12xs);
+}
+.image,
+.imageIcon1 {
+  height: 22px;
+  width: 22px;
+  overflow: hidden;
+}
+.imageIcon1 {
+  position: absolute;
+  top: -0.5px;
+  left: 0;
+  object-fit: cover;
+}
+.image {
+  position: relative;
+  border-radius: var(--br-2xs);
+  flex-shrink: 0;
+}
+.horizontalFlexContainer {
+  height: 25px;
+  justify-content: flex-start;
+  gap: 0 4px;
+  text-align: right;
+  color: var(--color-darkslategray);
+}
+.div,
+.divcontainer,
+.horizontalFlexContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.divcontainer {
+  width: 1320px;
+  justify-content: space-between;
+  padding: var(--padding-base) var(--padding-lg) var(--padding-base)
+    var(--padding-base);
+  box-sizing: border-box;
+  max-width: 1320px;
+  gap: var(--gap-xl);
+}
+.div {
+  align-self: stretch;
+  background-color: var(--app-nero-02);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12);
+  justify-content: center;
+  top: 0;
+  z-index: 99;
+  position: relative;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--app-roboto-regular-16-size);
+  color: var(--app-shark-75);
+  font-family: var(--app-roboto-regular-14-upper);
+}
+@media screen and (max-width: 1325px) {
+  .divcontainer {
+    max-width: 100%;
+  }
+}
+@media screen and (max-width: 800px) {
+  .diveditingViewPort {
+    display: none;
+  }
+}
+@media screen and (max-width: 450px) {
+  .createAccountItsContainer,
+  .searchForYour {
+    display: none;
+  }
+}

@@ -1,0 +1,53 @@
+.separator {
+  width: 1040px;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid var(--app-shark);
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+  opacity: 0.25;
+  max-width: 100%;
+}
+.divFlexContainer,
+.appByHtml {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.divFlexContainer {
+  margin-top: -0.1px;
+  margin-bottom: -6px;
+  width: 1084px;
+  align-items: flex-start;
+  padding: var(--padding-0) var(--padding-xl);
+  gap: 17px 0;
+  flex-shrink: 0;
+}
+.appByHtml {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0.5px;
+  right: 0;
+  bottom: -0.5px;
+  left: 0;
+  background-color: var(--app-nero);
+  align-items: center;
+  padding: var(--padding-0) var(--padding-0) var(--padding-0);
+}
+.mainContainer {
+  width: 100%;
+  height: 2414.6px;
+  position: relative;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 800px) {
+  .mainContainer {
+    height: auto;
+    min-height: 2414.6;
+  }
+}

@@ -1,0 +1,270 @@
+.natureRdsfvg8ljpgIcon {
+  align-self: stretch;
+  height: 220px;
+  position: relative;
+  border-radius: var(--br-9xs) var(--br-9xs) 0 0;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.article {
+  margin: 0;
+  position: relative;
+  font-size: var(--app-roboto-medium-28-size);
+  line-height: 33.6px;
+  font-weight: 500;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 642px;
+}
+.regulabrands,
+.whatIfFamous {
+  margin: 0;
+}
+.whatIfFamousContainer {
+  position: relative;
+  line-height: 28.8px;
+  font-weight: 500;
+  display: inline-block;
+  max-width: 100%;
+}
+.heading4,
+.heading4margin {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.heading4 {
+  align-self: stretch;
+  padding: var(--padding-0) var(--padding-0) 0.38999998569488525px;
+}
+.heading4margin {
+  width: 587px;
+  padding: var(--padding-0) var(--padding-0) var(--padding-5xs);
+}
+.imageIcon {
+  width: 28px;
+  height: 28px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.image,
+.imageFill {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.image {
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.div,
+.divbtn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.divbtn {
+  border-radius: var(--br-7xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-6xs) var(--padding-smi);
+}
+.divdFlex1,
+.divdFlexWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.divdFlex1 {
+  flex: 1;
+  justify-content: space-between;
+  flex-shrink: 0;
+  gap: 0.55px;
+}
+.divdFlexWrapper {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-0) var(--padding-7xs);
+  box-sizing: border-box;
+  font-size: var(--app-roboto-medium-2363-size);
+}
+.iveWorkedIn {
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  max-width: 642px;
+}
+.divFlexDiv {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-0) var(--padding-6xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.user1CosoqooxjpgIcon {
+  height: 48px;
+  width: 48px;
+  position: relative;
+  border-radius: var(--br-5xl);
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.siddharthGoyal {
+  position: relative;
+  line-height: 24px;
+}
+.divdFlex3,
+.divdFlex4,
+.divtextWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divdFlex3 {
+  flex-direction: row;
+  align-items: center;
+  gap: 0 8px;
+}
+.imageIcon1 {
+  width: 18px;
+  height: 18px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.image1,
+.imageFill1 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.image1 {
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.kViews {
+  position: relative;
+  line-height: 24px;
+}
+.divdNone {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-2xl) var(--padding-0) var(--padding-0);
+}
+.imageIcon2 {
+  width: 18px;
+  height: 18px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.image2,
+.imageFill2 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.image2 {
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button,
+.divdFlex2,
+.divdFlex5 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.button {
+  border-radius: var(--br-7xs);
+  background-color: var(--app-athens-gray);
+  justify-content: flex-start;
+  padding: var(--padding-6xs) var(--padding-smi);
+}
+.divdFlex2,
+.divdFlex5 {
+  justify-content: space-between;
+}
+.divdFlex5 {
+  width: 161px;
+  font-size: var(--app-roboto-regular-1588-size);
+}
+.divdFlex2 {
+  align-self: stretch;
+  gap: var(--gap-xl);
+}
+.articleParent,
+.divdFlex {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.articleParent {
+  align-self: stretch;
+  align-items: flex-start;
+  padding: var(--padding-0) var(--padding-5xl);
+  gap: 9px 0;
+  max-width: 100%;
+}
+.divdFlex {
+  width: 100%;
+  border-radius: var(--br-7xs);
+  border: 1px solid var(--app-geyser);
+  align-items: center;
+  padding: var(--padding-12xs) var(--padding-0) var(--padding-6xl);
+  gap: 23px 0;
+  max-width: 692px;
+  text-align: left;
+  font-size: var(--app-roboto-regular-16-size);
+  color: var(--app-shark);
+  font-family: var(--app-roboto-regular-14-upper);
+}
+@media screen and (max-width: 800px) {
+  .article {
+    max-width: 100%;
+  }
+  .divdFlex1 {
+    flex-wrap: wrap;
+  }
+  .divdFlex,
+  .iveWorkedIn {
+    max-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .article {
+    font-size: var(--font-size-3xl);
+    line-height: 27px;
+  }
+  .whatIfFamousContainer {
+    font-size: var(--font-size-lgi);
+    line-height: 23px;
+  }
+  .divdFlex2 {
+    flex-wrap: wrap;
+  }
+}

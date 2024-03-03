@@ -1,0 +1,251 @@
+.allPosts32 {
+  position: relative;
+  font-weight: 700;
+  color: inherit;
+  text-decoration: none;
+}
+.item,
+.link {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link {
+  border-bottom: 2px solid var(--app-black);
+  padding: var(--padding-5xs) var(--padding-0) var(--padding-2xs);
+}
+.item {
+  padding: var(--padding-0) var(--padding-0) var(--padding-12xs);
+  color: var(--app-black);
+  font-family: var(--app-ibm-plex-sans-bold-16);
+}
+.article {
+  position: relative;
+  color: inherit;
+  text-decoration: none;
+}
+.item1,
+.link1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link1 {
+  padding: var(--padding-4xs) var(--padding-0) var(--padding-xs);
+}
+.item1 {
+  height: 41px;
+  font-size: var(--app-roboto-regular-155-size);
+}
+.event {
+  position: relative;
+  color: inherit;
+  text-decoration: none;
+}
+.item2,
+.link2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link2 {
+  padding: var(--padding-4xs) var(--padding-0) var(--padding-xs);
+}
+.item2 {
+  height: 41px;
+}
+.education {
+  position: relative;
+  color: inherit;
+  text-decoration: none;
+}
+.item3,
+.link3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link3 {
+  padding: var(--padding-4xs) var(--padding-0) var(--padding-xs);
+}
+.item3 {
+  height: 41px;
+  font-size: var(--app-roboto-regular-1588-size);
+}
+.job {
+  position: relative;
+  color: inherit;
+  text-decoration: none;
+}
+.item4,
+.link4 {
+  flex-direction: column;
+}
+.link4 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-4xs) var(--padding-0) var(--padding-xs);
+}
+.item4 {
+  height: 41px;
+  font-size: var(--app-roboto-regular-1538-size);
+}
+.item4,
+.list,
+.listmargin {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.list {
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 0 16px;
+}
+.listmargin {
+  flex-direction: column;
+  padding: var(--padding-5xs) var(--padding-0);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.writePost {
+  position: relative;
+  line-height: 24px;
+}
+.imageIcon {
+  width: 22px;
+  height: 22px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.imageFill1 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.buttonWritePost,
+.image {
+  display: flex;
+  flex-direction: row;
+}
+.image {
+  overflow: hidden;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.buttonWritePost {
+  border-radius: var(--br-7xs);
+  background-color: var(--app-concrete);
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-6xs) var(--padding-2xs);
+}
+.imageIcon1 {
+  width: 22px;
+  height: 22px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.image1,
+.imageFill2 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.image1 {
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.joinGroup {
+  position: relative;
+  line-height: 24px;
+}
+.buttonJoinGroup {
+  border-radius: var(--br-7xs);
+  background-color: var(--app-blue-ribbon);
+  border: 1px solid var(--app-manatee);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-6xs) var(--padding-4xs) var(--padding-6xs)
+    var(--padding-smi);
+  gap: 0 8px;
+}
+.buttonJoinGroupmargin {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-0) var(--padding-0) var(--padding-5xs);
+  font-size: var(--app-roboto-regular-16-size);
+  color: var(--app-nero);
+}
+.divdFlex,
+.divdFlexmargin {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-0) 5.684341886080802e-14px var(--padding-0)
+    var(--padding-0);
+}
+.divdFlexmargin {
+  flex-direction: column;
+  align-items: flex-start;
+  padding: var(--padding-5xs) var(--padding-0);
+  text-align: center;
+  font-size: var(--font-size-base-8);
+  color: var(--app-shark);
+}
+.divdNone,
+.imageFill {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.divdNone {
+  flex: 1;
+  background-color: var(--app-nero);
+  border-top: 1px solid var(--app-black-20);
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--padding-12xs) var(--padding-xs) var(--padding-6xs-5);
+  max-width: 1040px;
+  min-height: 68px;
+  gap: var(--gap-xl);
+}
+.imageFill {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-0) var(--padding-0) var(--padding-9xs);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--app-roboto-regular-16-size);
+  color: var(--app-gray);
+  font-family: var(--app-roboto-regular-14-upper);
+}
+@media screen and (max-width: 1125px) {
+  .divdNone {
+    max-width: 100%;
+  }
+}
+@media screen and (max-width: 800px) {
+  .divdNone {
+    flex-wrap: wrap;
+  }
+}
